@@ -1,0 +1,2 @@
+# Ruby Instance Variable Modification Bug
+This repository demonstrates a common error in Ruby related to modifying instance variables through getter methods.  The `bug.rb` file shows the erroneous code, which raises a `NoMethodError`. The `bugSolution.rb` file provides the correct way to modify the instance variable.
